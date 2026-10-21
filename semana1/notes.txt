@@ -1,1 +1,4 @@
 Learned the whole Git workflow
+Learned the basic command lines
+Created GitHub account and installed Git
+All understood
