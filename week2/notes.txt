@@ -1,0 +1,5 @@
+Created qa-portfolio to practice
+Practiced with basic command lines
+Created 2 subfolders
+Added my weekly learnings
+All understood
